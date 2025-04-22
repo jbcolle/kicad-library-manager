@@ -7,4 +7,5 @@ edition = "2021"
 anyhow = "1.0.98"
 clap = { version = "4.5.36", features = ["derive"] }
 mktemp = "0.5.1"
+strum = {version = "0.27.1", features = ["derive"]}
 zip-extract = "0.2.2"
